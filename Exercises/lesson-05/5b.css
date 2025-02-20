@@ -1,0 +1,13 @@
+.deal {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 0;
+}
+.offer-time {
+  font-family: Arial;
+  color: red;
+  font-style: italic;
+  font-size: 18px;
+  margin-top: 8px;
+}
