@@ -1,0 +1,30 @@
+.email {
+    font-family: Arial;
+    color: gray;
+    margin-top: 8px;
+    font-size: 12px;
+    margin-bottom: 0;
+}
+.Search-Bar {
+    width: 290px;
+    margin-top: 6px;
+    padding-top: 6px;
+    margin-bottom: 0;
+}
+.text-box {
+    font-family: Arial;
+    color: gray;
+    font-size: 12px;
+    margin-top: 13px;
+}
+.join-button {
+    background-color: rgb(10, 102, 194);
+    border: none;
+    color: white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 40px;
+    padding-left: 40px;
+    border-radius: 25px;
+    cursor: pointer;
+}
